@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <br/>
 
 #### Connect with Me
-
-<p align="center">
 <a href="https://www.linkedin.com/in/low-zong-yun-zack-36999b192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Low%20Zong%20Yun%20Zack-blue?style=flat-square&logo=linkedin"></a>
+<br>
 <a href="mailto:lowzongyun@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lowzongyun@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+
