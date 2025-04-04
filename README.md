@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <br/>
 <a href="https://github.com/zacklow28">
-  <img height="180em" src="https://vercel-git-main-zacklow28s-projects.vercel.app/api?username=zacklow28&show_icons=true" />
-  <img height="180em" src="https://vercel-git-main-zacklow28s-projects.vercel.app/api/top-langs/?username=zacklow28&layout=compact" />
+  <img height="180em" src="https://vercel-git-main-zacklow28s-projects.vercel.app/api?username=zacklow28&theme=merko&show_icons=true&hide=stars,contribs&show=prs_merged&rank_icon=github&card_width=400px" />
+  <img height="180em" src="https://vercel-git-main-zacklow28s-projects.vercel.app/api/top-langs/?username=zacklow28&theme=dark&bg_color=60,000000,00ffff&layout=compact&card_width=400px&text_color=ffffff" />
 </a>
 <br/>
 
