@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 -->
 #### About Me
 📚 Currently studying Computer Science at the National University of Singapore
+
 👨‍🏫 I teach students during my free time
+
 ⚡ Fun fact: I love eating good fooood !
 
 #### Tech Stack
 💻 Java | Python 
+
 🧩 JavaScript | React | HTML | CSS
+
 ☑️ PostgreSQL | Postman
+
 🎨 Photoshop | Premier Pro
